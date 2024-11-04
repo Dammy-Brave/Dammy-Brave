@@ -1,4 +1,4 @@
-# Hi there, I'm Dammy Brave! 👋
+# Hi there, I'm Daniel Oyegunle! 👋
 
 Welcome to my GitHub profile! I'm a data enthusiast with a passion for uncovering insights from data and making data-driven decisions. I enjoy exploring data analytics and finding creative solutions through code.
 
